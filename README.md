@@ -1,2 +1,2 @@
-# https-github.com-your-username-git_practice_task-pull-1
+https://github.com/Egor Popov/repository-name/pull/1
 описание простой веб-страницы
